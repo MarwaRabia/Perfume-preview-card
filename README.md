@@ -19,4 +19,4 @@ Thanks for checking out this front-end coding challenge.
 
 ## Deploying my project
 
-- [Live Site URL](https://stats-preview-card-component-ten-xi.vercel.app/)
+- [Live Site URL](https://marwarabia.github.io/Perfume-preview-card/)
